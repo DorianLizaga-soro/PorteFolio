@@ -1,0 +1,1 @@
+Mets ici ta photo : profil.jpg (elle s'affiche automatiquement dans « À propos »).

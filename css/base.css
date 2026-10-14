@@ -1,0 +1,6 @@
+:root{--bg:#050816;--bg2:#0F172A;--bg3:#1E293B;--g:#22C55E;--g2:#4ADE80;--t:#F8FAFC;--m:#94A3B8;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+*{box-sizing:border-box;margin:0}
+html{scroll-behavior:smooth;scroll-padding-top:calc(70px + env(safe-area-inset-top,0px))}
+body{background:var(--bg);color:var(--t);font-family:'Space Grotesk',system-ui,sans-serif;overflow-x:hidden}
+.zsvg{display:block}
